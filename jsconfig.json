@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/components/*": ["./src/components/*"],
+      "@/screens/*": ["./src/screens/*"],
+      "@/icons/*": ["./src/assets/icons/*"],
+      "@/images/*": ["./src/assets/images/*"],
+      "@/api/*": ["./src/api/*"],
+      "@/constants/*": ["./src/constants/*"],
+      "@/helper/*": ["./src/helper/*"],
+      "@/styles/*": ["./src/styles/*"],
+      "@/store/*": ["./src/store/*"],
+      "@/context/*": ["./src/context/*"]
+    }
+  }
+}
